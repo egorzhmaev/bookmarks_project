@@ -1,6 +1,6 @@
 # type_script_vue_project
 
-# Vue 3, Vuex Typescript Bookmarks
+# Vue 3, Pinia, Typescript Bookmarks
 
 ![pic1](https://github.com/egorzhmaev/bookmarks_project/blob/main/2025-06-20_16-03-24.png)
 
